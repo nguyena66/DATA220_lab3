@@ -5,7 +5,7 @@ To summarize spaces.
 
 ## Data
 Use data/sample/campus_spaces.csv, a synthetic teaching sample.
-See [the data dictionary](docs/data_dictionary.md)
+See [the data dictionary](docs/data_dictionary.md).
 ## Repository structure
 scripts/ contains code.
 data/sample/ contains the tracked sample.
