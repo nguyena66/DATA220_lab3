@@ -1,4 +1,5 @@
 | Column | Definition |
+| --- | --- |
 | space_id | the space id |
 | building | the building where the space located |
 | space_type | the type of the space |
